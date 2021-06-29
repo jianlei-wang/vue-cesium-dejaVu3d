@@ -1,6 +1,6 @@
 # cesium-vue(DEJA_VU3D)
 
-> A Vue-Cesium-DejaVu3d project
+> A Vue-Cesium-DejaVu3d project(vue-cesium模板管理)
 
 ## Build Setup
 
