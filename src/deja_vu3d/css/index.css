@@ -1,0 +1,7 @@
+.cesium-viewer-animationContainer,
+.cesium-viewer-timelineContainer {
+  display: none;
+}
+.cesium-viewer-bottom{
+  display: none !important;
+}
