@@ -1,11 +1,11 @@
-const MeasurementAnalysis = function (mapViewer, mapWorld) {
+const DemoTool = function (mapViewer, mapWorld) {
   this.mapViewer = mapViewer;
   this.mapWorld = mapWorld;
 };
-MeasurementAnalysis.prototype = {
+DemoTool.prototype = {
   init: function () {
-    alert("我是测量组件");
+    alert("我是Demo组件");
   },
   distance: function () {},
 };
-export default MeasurementAnalysis;
+export default DemoTool;
